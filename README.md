@@ -32,3 +32,7 @@ The default CAN ID for the arm motor is 9.  The default forward speed is 20% (0.
 
 This initializes the Arm subsystem, connects to the gamepad, and then binds the Left Trigger button to the command for
 running the arm foward, and the Right Trigger button for running the arm backward.
+
+# Exercises
+
+* [Linearly Scaled Velocity](exercises/Linear-Scaled-Velocity.md)
